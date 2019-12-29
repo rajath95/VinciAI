@@ -1,2 +1,2 @@
 # VinciAI
-Application that generates ad lines based on a given topical label
+App that generates ad taglines based on a given topical label
